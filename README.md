@@ -12,7 +12,7 @@ Tengo experiencia en varios lenguajes de programación y conocimientos generales
 * Inicios de R para aplicación general y en biología.
 * Conocimiento simple en programas variados como Scratch, Appinventor, lenguajes HMTL y php, etc.
 
-### Experiencias
+### Experiencia profesional
 He aprendido mucho por competencias y experiencias escolares, desde locales hasta internacionales:
 
 * 3er lugar en Feria Estatal de Ciencias e Ingeniería (Área ingenierías).
@@ -20,3 +20,8 @@ He aprendido mucho por competencias y experiencias escolares, desde locales hast
 * 1er lugar en Expo Recerca Jove Barcelona (Categoría internacional).
 * Múltiples años participando en olimpiadas de matemáticas.
 * Participación en varios proyectos sociales/para la comunidad.
+
+### Intereses
+* Seguir aprendiendo más lenguajes de programación y profundizar en cada uno.
+* Desarrollar proyectos independientes a corto y largo plazo.
+* Graduarme y optar por posgrados.
