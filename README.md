@@ -13,8 +13,10 @@ Tengo experiencia en varios lenguajes de programación y conocimientos generales
 * Conocimiento simple en programas variados como Scratch, Appinventor, lenguajes HMTL y php, etc.
 
 ### Experiencias
-He aprendido mucho por competencias escolares, desde locales hasta internacionales:
+He aprendido mucho por competencias y experiencias escolares, desde locales hasta internacionales:
 
 * 3er lugar en Feria Estatal de Ciencias e Ingeniería (Área ingenierías).
 * 1er lugar en Feria Nacional de Ciencias FENACI 2019 (Área ingenierías).
 * 1er lugar en Expo Recerca Jove Barcelona (Categoría internacional).
+* Múltiples años participando en olimpiadas de matemáticas.
+* Participación en varios proyectos sociales/para la comunidad.
